@@ -1,0 +1,11 @@
+# Azure DevOps Configuration Template
+# Copy this file to ado_settings.txt and fill in your actual values
+
+organization_url=https://dev.azure.com/your-organization
+project=Your Project Name
+team=Your Team Name
+pat=your_personal_access_token_here
+llm_work_item_limit=1000
+llm_strategy=general
+max_ado_work_item_limit=19000
+auto_connect=true
